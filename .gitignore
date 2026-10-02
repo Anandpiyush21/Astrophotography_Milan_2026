@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Raw Chandra data (download separately, see README)
+Astrophotography Raw FITS/
+*.fits
+
+# Intermediate products, rebuilt by run_all.sh
+work/
+
+# Duplicate of outputs/final and report/
+submission/
+
+# Competition rules document
+Milan AstroPhotography*.pdf
