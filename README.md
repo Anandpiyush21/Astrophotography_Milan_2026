@@ -4,6 +4,7 @@ Hostel Ramanujan's entry for the Astro-Photography Competition at Milan 2026, II
 
 Team: Piyush Anand (CS25MTECH12009), Darshanraj Pattanaik (CS25MTECH12002)
 
+
 ![M82 in X-rays, annotated](outputs/final/M82_Chandra_annotated_Ramanujan.png)
 
 The image covers 18' x 18' at 0.492" per pixel, with north up and east left. Colour encodes X-ray energy: orange is 0.35-1.1 keV, green is 1.1-2.2 keV and blue is 2.2-6 keV.
